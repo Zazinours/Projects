@@ -1,0 +1,5 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S03_A001\S03_A001\bin\Debug\S03_A001.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S03_A001\S03_A001\bin\Debug\S03_A001.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S03_A001\S03_A001\obj\Debug\Salaries.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S03_A001\S03_A001\obj\Debug\S03_A001.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S03_A001\S03_A001\obj\Debug\S03_A001.pdb

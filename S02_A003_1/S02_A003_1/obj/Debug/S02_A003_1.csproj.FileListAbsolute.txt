@@ -1,0 +1,12 @@
+c:\users\cdi\documents\visual studio 2015\Projects\S02_A003_1\S02_A003_1\bin\Debug\S02_A003_1.exe.config
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\bin\Debug\S02_A003_1.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\bin\Debug\S02_A003_1.pdb
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\obj\Debug\S02_A003_1.csprojResolveAssemblyReference.cache
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\obj\Debug\S02_A003_1.exe
+C:\Users\CDI\Documents\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\obj\Debug\S02_A003_1.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\bin\Debug\S02_A003_1.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\obj\Debug\S02_A003_1.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\obj\Debug\S02_A003_1.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\bin\Debug\S02_A003_1.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\bin\Debug\S02_A003_1.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A003_1\S02_A003_1\obj\Debug\S02_A003_1.csprojResolveAssemblyReference.cache

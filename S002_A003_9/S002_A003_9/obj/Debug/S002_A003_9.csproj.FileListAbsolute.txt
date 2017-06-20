@@ -1,0 +1,6 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S002_A003_9\S002_A003_9\bin\Debug\S002_A003_9.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S002_A003_9\S002_A003_9\bin\Debug\S002_A003_9.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S002_A003_9\S002_A003_9\bin\Debug\S002_A003_9.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S002_A003_9\S002_A003_9\obj\Debug\S002_A003_9.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S002_A003_9\S002_A003_9\obj\Debug\S002_A003_9.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S002_A003_9\S002_A003_9\obj\Debug\S002_A003_9.pdb

@@ -1,0 +1,8 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\SalarieS\Serialisation\bin\Debug\Serialisation.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\SalarieS\Serialisation\obj\Debug\Serialisation.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\SalarieS\Serialisation\bin\Debug\Serialisation.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\SalarieS\Serialisation\bin\Debug\Serialisation.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\SalarieS\Serialisation\bin\Debug\SalarieDll.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\SalarieS\Serialisation\bin\Debug\SalarieDll.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\SalarieS\Serialisation\obj\Debug\Serialisation.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\SalarieS\Serialisation\obj\Debug\Serialisation.pdb

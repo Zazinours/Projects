@@ -1,0 +1,10 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\bin\Debug\DialogueConnexion.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\bin\Debug\DialogueConnexion.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\bin\Debug\DialogueConnexion.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\obj\Debug\DialogueConnexion.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\obj\Debug\DialogueConnexion.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\obj\Debug\DialogueConnexion.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\obj\Debug\DialogueConnexion.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\obj\Debug\DialogueConnexion.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\obj\Debug\DialogueConnexion.FrmDialogueModal.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\DialogueConnexion\DialogueConnexion\obj\Debug\DialogueConnexion.Principal.resources

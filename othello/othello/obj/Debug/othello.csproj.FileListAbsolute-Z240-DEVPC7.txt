@@ -1,0 +1,9 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\bin\Debug\othello.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\bin\Debug\othello.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\bin\Debug\othello.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\obj\Debug\othello.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\obj\Debug\othello.Form1.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\obj\Debug\othello.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\obj\Debug\othello.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\obj\Debug\othello.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\othello\othello\obj\Debug\othello.pdb

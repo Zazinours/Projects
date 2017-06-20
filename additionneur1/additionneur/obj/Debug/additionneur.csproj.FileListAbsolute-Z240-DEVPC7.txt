@@ -1,0 +1,12 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\bin\Debug\additionneur.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\bin\Debug\additionneur.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\bin\Debug\additionneur.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\obj\Debug\additionneur.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\obj\Debug\additionneur.FormAdditionneur.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\obj\Debug\additionneur.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\obj\Debug\additionneur.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\obj\Debug\additionneur.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur\additionneur\obj\Debug\additionneur.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur1\additionneur\bin\Debug\additionneur.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur1\additionneur\obj\Debug\additionneur.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\additionneur1\additionneur\obj\Debug\additionneur.pdb

@@ -1,0 +1,8 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\Salaries\bin\Debug\Salaries.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\Salaries\bin\Debug\Salaries.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\Salaries\bin\Debug\Salaries.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\Salaries\bin\Debug\S03_A001.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\Salaries\bin\Debug\S03_A001.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\Salaries\obj\Debug\Salaries.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\Salaries\obj\Debug\Salaries.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\Salaries\obj\Debug\Salaries.pdb

@@ -1,0 +1,9 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\bin\Debug\MonPremierDelegate2.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\bin\Debug\MonPremierDelegate2.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\bin\Debug\MonPremierDelegate2.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\obj\Debug\MonPremierDelegate2.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\obj\Debug\MonPremierDelegate2.Form1.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\obj\Debug\MonPremierDelegate2.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\obj\Debug\MonPremierDelegate2.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\obj\Debug\MonPremierDelegate2.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate2\MonPremierDelegate2\obj\Debug\MonPremierDelegate2.pdb

@@ -1,0 +1,9 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\obj\Debug\Jouez avec les caractères d'une chaine.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\obj\Debug\Jouez_avec_les_caractères_d_une_chaine.FrmPrincipal.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\obj\Debug\Jouez avec les caractères d'une chaine.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\bin\Debug\Jouez avec les caracteres d une chaine.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\bin\Debug\Jouez avec les caracteres d une chaine.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\bin\Debug\Jouez avec les caracteres d une chaine.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\obj\Debug\Jouez_avec_les_caracteres_d_une_chaine.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\obj\Debug\Jouez avec les caracteres d une chaine.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Jouez avec les caractères d'une chaine\Jouez avec les caractères d'une chaine\obj\Debug\Jouez avec les caracteres d une chaine.pdb

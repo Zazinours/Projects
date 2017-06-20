@@ -1,0 +1,10 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\bin\Debug\Dialogue Modal.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\bin\Debug\Dialogue Modal.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\bin\Debug\Dialogue Modal.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\obj\Debug\Dialogue Modal.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\obj\Debug\Dialogue_Modal.Form1.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\obj\Debug\Dialogue_Modal.FrmDialogueModal.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\obj\Debug\Dialogue_Modal.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\obj\Debug\Dialogue Modal.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\obj\Debug\Dialogue Modal.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Dialogue Modal\Dialogue Modal\obj\Debug\Dialogue Modal.pdb

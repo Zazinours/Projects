@@ -1,0 +1,9 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\bin\Debug\testJeux.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\bin\Debug\testJeux.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\bin\Debug\testJeux.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\obj\Debug\testJeux.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\obj\Debug\testJeux.Form1.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\obj\Debug\testJeux.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\obj\Debug\testJeux.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\obj\Debug\testJeux.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\testJeux\testJeux\obj\Debug\testJeux.pdb

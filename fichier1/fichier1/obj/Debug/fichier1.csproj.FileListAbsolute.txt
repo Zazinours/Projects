@@ -1,0 +1,6 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\fichier1\fichier1\bin\Debug\fichier1.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\fichier1\fichier1\bin\Debug\fichier1.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\fichier1\fichier1\bin\Debug\fichier1.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\fichier1\fichier1\obj\Debug\fichier1.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\fichier1\fichier1\obj\Debug\fichier1.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\fichier1\fichier1\obj\Debug\fichier1.pdb

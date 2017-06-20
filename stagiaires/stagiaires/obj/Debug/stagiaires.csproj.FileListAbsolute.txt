@@ -1,0 +1,5 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\stagiaires\obj\Debug\stagiaires.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\stagiaires\bin\Debug\stagiaires.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\stagiaires\bin\Debug\stagiaires.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\stagiaires\obj\Debug\stagiaires.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\stagiaires\obj\Debug\stagiaires.pdb

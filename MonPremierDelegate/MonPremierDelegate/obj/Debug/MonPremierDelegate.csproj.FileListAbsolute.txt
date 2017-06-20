@@ -1,0 +1,5 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate\MonPremierDelegate\bin\Debug\MonPremierDelegate.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate\MonPremierDelegate\obj\Debug\MonPremierDelegate.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate\MonPremierDelegate\obj\Debug\TestThread.Program.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate\MonPremierDelegate\obj\Debug\MonPremierDelegate.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\MonPremierDelegate\MonPremierDelegate\obj\Debug\MonPremierDelegate.csproj.GenerateResource.Cache

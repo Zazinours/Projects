@@ -1,0 +1,5 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A_004_b\S02_A_004_b\bin\Debug\S02_A_004_b.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A_004_b\S02_A_004_b\bin\Debug\S02_A_004_b.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A_004_b\S02_A_004_b\bin\Debug\S02_A_004_b.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A_004_b\S02_A_004_b\obj\Debug\S02_A_004_b.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A_004_b\S02_A_004_b\obj\Debug\S02_A_004_b.pdb

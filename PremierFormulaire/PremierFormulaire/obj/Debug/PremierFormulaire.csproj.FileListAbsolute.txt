@@ -1,0 +1,9 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\bin\Debug\PremierFormulaire.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\bin\Debug\PremierFormulaire.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\bin\Debug\PremierFormulaire.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\obj\Debug\PremierFormulaire.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\obj\Debug\PremierFormulaire.Form1.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\obj\Debug\PremierFormulaire.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\obj\Debug\PremierFormulaire.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\obj\Debug\PremierFormulaire.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\PremierFormulaire\PremierFormulaire\obj\Debug\PremierFormulaire.pdb

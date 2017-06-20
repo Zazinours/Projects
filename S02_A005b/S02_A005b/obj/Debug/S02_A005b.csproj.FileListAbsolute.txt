@@ -1,0 +1,2 @@
+E:\Visual Studio 2015\Projects\S02_A005b\S02_A005b\bin\Debug\S02_A005b.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\S02_A005b\S02_A005b\bin\Debug\S02_A005b.exe.config

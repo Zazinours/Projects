@@ -1,0 +1,6 @@
+E:\Visual Studio 2015\Projects\S02_A005_6\S02_A005_6\bin\Debug\S02_A005_6.exe.config
+E:\Visual Studio 2015\Projects\S02_A005_6\S02_A005_6\bin\Debug\S02_A005_6.exe
+E:\Visual Studio 2015\Projects\S02_A005_6\S02_A005_6\bin\Debug\S02_A005_6.pdb
+E:\Visual Studio 2015\Projects\S02_A005_6\S02_A005_6\obj\Debug\S02_A005_6.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\S02_A005_6\S02_A005_6\obj\Debug\S02_A005_6.exe
+E:\Visual Studio 2015\Projects\S02_A005_6\S02_A005_6\obj\Debug\S02_A005_6.pdb

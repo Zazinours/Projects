@@ -1,0 +1,14 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\bin\Debug\groupe de controles wpf.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\bin\Debug\groupe de controles wpf.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\bin\Debug\groupe de controles wpf.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\groupe de controles wpf.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\MainWindow.g.cs
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\App.g.cs
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\groupe de controles wpf_MarkupCompile.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\groupe de controles wpf_MarkupCompile.lref
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\MainWindow.baml
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\groupe de controles wpf.g.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\groupe_de_controles_wpf.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\groupe de controles wpf.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\groupe de controles wpf.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\groupe de controles wpf\groupe de controles wpf\obj\Debug\groupe de controles wpf.pdb

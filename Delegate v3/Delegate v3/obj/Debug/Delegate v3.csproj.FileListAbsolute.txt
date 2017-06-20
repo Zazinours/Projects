@@ -1,0 +1,11 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\bin\Debug\Delegate v3.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\bin\Debug\Delegate v3.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\bin\Debug\Delegate v3.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\obj\Debug\Delegate_v3.Form1.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\obj\Debug\Delegate_v3.Properties.Resources.resources
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\obj\Debug\Delegate v3.csproj.GenerateResource.Cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\obj\Debug\Delegate v3.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\obj\Debug\Delegate v3.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\obj\Debug\Delegate v3.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\bin\Debug\SalarieDll.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\Delegate v3\Delegate v3\bin\Debug\SalarieDll.pdb

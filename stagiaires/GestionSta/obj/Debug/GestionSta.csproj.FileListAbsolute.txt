@@ -1,0 +1,8 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\GestionSta\bin\Debug\GestionSta.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\GestionSta\bin\Debug\GestionSta.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\GestionSta\bin\Debug\GestionSta.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\GestionSta\bin\Debug\stagiaires.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\GestionSta\bin\Debug\stagiaires.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\GestionSta\obj\Debug\GestionSta.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\GestionSta\obj\Debug\GestionSta.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\stagiaires\GestionSta\obj\Debug\GestionSta.pdb

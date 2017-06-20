@@ -1,0 +1,8 @@
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\gestion de listes\bin\Debug\gestion de listes.exe.config
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\gestion de listes\bin\Debug\gestion de listes.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\gestion de listes\bin\Debug\gestion de listes.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\gestion de listes\bin\Debug\S03_A001.dll
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\gestion de listes\bin\Debug\S03_A001.pdb
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\gestion de listes\obj\Debug\gestion de listes.csprojResolveAssemblyReference.cache
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\gestion de listes\obj\Debug\gestion de listes.exe
+C:\Users\CDI\OneDrive\Visual Studio 2015\Projects\gestion de listes\gestion de listes\obj\Debug\gestion de listes.pdb
